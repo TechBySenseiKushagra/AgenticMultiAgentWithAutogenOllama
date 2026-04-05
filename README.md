@@ -21,7 +21,7 @@ Building Agentic Multi-Agent System with AutoGen and Ollama
 4.  Activate the virtual environment
     - On Windows:
         ``` myenv\Scripts\activate ```
-    - On On macOS/Linux:
+    - On macOS/Linux:
         ``` source myenv/bin/activate ```
 
 5.  Install dependencies
